@@ -3,10 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV-2.4.8"/>
-	<classpathentry kind="lib" path="/Users/Alex/Desktop/javacv-bin/javacv-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="/Users/Alex/Desktop/javacv-bin/javacpp.jar"/>
-	<classpathentry kind="lib" path="/Users/Alex/Desktop/javacv-bin/javacv.jar"/>
-	<classpathentry kind="lib" path="/Users/Alex/Documents/Processing/libraries/opencv_processing/library/opencv_processing.jar"/>
-	<classpathentry kind="lib" path="/Applications/Processing.app/Contents/Java/core/library/core.jar"/>
+	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/javacv-bin/javacv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
