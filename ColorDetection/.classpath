@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/javacv-bin/javacpp.jar"/>
 	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/javacv-bin/javacv.jar"/>
 	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/core.jar"/>
+	<classpathentry kind="lib" path="/Users/Alex/git/ColorDetection/ColorDetection/opencv_processing.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
